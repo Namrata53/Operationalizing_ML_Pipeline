@@ -22,12 +22,12 @@ Registered Dataset
 Run completed  
 ![image](https://user-images.githubusercontent.com/27814345/115306586-abcd1a80-a185-11eb-9f7f-18ac327631f3.png)
 
-**3. Deploy Best Model** 
-Select the best model for deployment and deploy the model using Azure Conatiner Instance(ACI) with authetication enabled. Here VotingEnsemble is the best model.
+**3. Deploy Best Model**   
+Select the best model for deployment and deploy the model using Azure Conatiner Instance(ACI) with authetication enabled. Here VotingEnsemble is the best model.  
 ![image](https://user-images.githubusercontent.com/27814345/115306824-ff3f6880-a185-11eb-94eb-79df44fc7ab0.png)
 
-**4. Enable Logging** 
-Modify and run log.py to enable Application insights.
+**4. Enable Logging**  
+Modify and run log.py to enable Application insights.  
 
 Before running logs.py  
 ![image](https://user-images.githubusercontent.com/27814345/115307492-e8e5dc80-a186-11eb-8517-25cac9127d10.png)
